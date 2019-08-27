@@ -1,0 +1,20 @@
+out/*
+test_report.xml
+coverage.xml
+test.out
+.idea
+*.iml
+
+# Gradle
+build/
+.gradle/
+.DS_Store
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+
+bin/
+.classpath
+.project
+.settings/
